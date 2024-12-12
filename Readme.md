@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ренат Мирзоев](https://up.htmlacademy.ru/univer-html1/2/user/2579821).
-* Наставник: [Алексей Владимирович Самохвалов] (https://htmlacademy.ru/profile/id1443429).
+* Наставник: Алексей Владимирович Самохвалов (https://htmlacademy.ru/profile/id1443429).
 
 ---
 
